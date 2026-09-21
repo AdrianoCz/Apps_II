@@ -1,0 +1,3 @@
+Notebook: Nome em negrito, preço com desconto de 15% e aviso "ÚLTIMAS UNIDADES".
+Smartphone: Nome em negrito, preço normal e aviso "EM ESTOQUE.   
+Fone de Ouvido: Nome em negrito, preço com desconto de 10% e aviso "SEM ESTOQUE"

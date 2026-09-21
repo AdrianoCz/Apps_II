@@ -1,0 +1,2 @@
+Será exibido "Mundo! ", pois quando o botão é clicado ele chama a função atualizarMensagem, 
+que, utilizando setMensagem, modifica o estado, troca o valor de mensagem de 'Olá' para "Mundo! "

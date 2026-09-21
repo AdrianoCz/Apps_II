@@ -1,0 +1,2 @@
+O texto não está centralizado horizontalmente pois justifyContent alinha os itens no eixo principal
+e o eixo principal do React Native é o vertical
